@@ -18,14 +18,14 @@
 
 1.  Clona este repositorio:
     
-    bash
-    
     Copiar código
     
     `git clone https://github.com/Medgasan/EasyImageConverter.git` 
     
 2.  Abre el proyecto en Visual Studio.
 3.  Compila el proyecto y genera el archivo ejecutable.
+4.  Usa ServerManager (EasyImageConverterShell/ServerManager) para registrar la aplicación en el menú contextual
+5.  Reinicia el proceso explorer.exe
 
 ## Uso
 
